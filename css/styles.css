@@ -76,7 +76,7 @@ body::before {
   margin: 0 2em;
   justify-content: space-between;
   align-items: center;
-  background-color: var(--Pale-blue:);
+  background-color: var(--Pale-blue);
   padding: 1.2em 0;
 }
 .plans__left{
